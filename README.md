@@ -6,7 +6,7 @@ Repo for GoExperts frontend sources without a pipeline. You need to construct a 
 4. Build up a pipeline on cicd platforms like Jenkins, Travis CI, Github Actions and have a test.
 
 
-<h1>P3项目开展建议</h1>
+<h1>P3项目开展建议~</h1>
 
 与developers共同参与开展P3项目，对DevOps来说是一次不可多得的锻炼机会。在时间允许情况下，DevOps可以自由选择部署工具(Jenkins, Github Action)、平台(AWS, GCP, Azure)、架构(EC2, ECS, GKE,  AKS)和内容（frontend, backend, lambda)，也可以选择手动或者通过IaC工具(Terraform, CloudFormation）完成资源的搭建，还可以搭建自己的监控系统来对上述资源和服务进行监控。
 
